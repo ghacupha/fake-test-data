@@ -1,31 +1,32 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Dr Seuss"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Lucy"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Miss B"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "name": "Arthur"
+    },
+    {
+      "id": 5,
+      "name": "Jonathan"
+    },
+    {
+      "id": 6,
+      "name": "Professor"
+    },
+    {
+      "id": 7,
+      "name": "Quincy"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
